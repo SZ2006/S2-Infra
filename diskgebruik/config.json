@@ -1,0 +1,9 @@
+{
+    "fileTypes": {
+      "Videos": [".mp4", ".avi", ".mov", ".mkv"],
+      "Muziek": [".mp3", ".wav", ".flac", ".aac"],
+      "Documenten": [".pdf", ".docx", ".xlsx", ".txt"],
+      "Afbeeldingen": [".jpg", ".jpeg", ".png", ".gif", ".svg"]
+    }
+  }
+  
